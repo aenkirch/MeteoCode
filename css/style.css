@@ -1,0 +1,27 @@
+body{
+  background-color: #587B7F;
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+.hautDePage{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  text-align: center;
+}
+
+h1{
+  font-size: 5em;
+  color: #CFEE9E;
+}
+
+h2{
+  font-size: 1.6em;
+}
+
+#temperature{
+  cursor: pointer;
+  width: 20%;
+  margin: auto;
+}
