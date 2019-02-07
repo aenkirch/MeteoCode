@@ -5,11 +5,16 @@ This project was made for the <strong>Intermediate Front End Development Project
 
 ---
 
-## Feature
+## Features
 
 Basically, this little app only allows you to do one thing :
 
 * Show the weather of your place
+
+... with some extras :
+
+* change temperature unit when clicking on it (Fahrenheit/Celsius)
+* displays an image corresponding to your city's weather
 
 ---
 
